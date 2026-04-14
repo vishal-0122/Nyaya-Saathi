@@ -1,0 +1,52 @@
+# VCS
+.git
+.gitignore
+.github/
+
+# Docs and non-runtime files
+README.md
+docs/
+
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+myenv/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Local runtime files
+*.log
+*.pid
+.DS_Store
+
+# Local env/config secrets
+.env
+.env.*
+
+# Large/local data artifacts
+data/embeddings/
+data/processed/
+data/raw/
+
+
+
+# Test and local ops-only files
+tests/
+scripts/ingest_data.py
+scripts/ingest_dummy_data.py
+scripts/seed_lawyers.py
+scripts/check_chroma.py
+scripts/setup_db.py

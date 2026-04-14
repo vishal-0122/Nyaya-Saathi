@@ -1,0 +1,67 @@
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nyaya-saathi:local
+    container_name: nyaya-saathi-api
+    env_file:
+      - .env
+    environment:
+      APP_MODULE: app.main:app
+      HOST: 0.0.0.0
+      PORT: 8000
+      MCP_URL: http://mcp:8001/mcp
+      OLLAMA_EMBED_URL: http://host.docker.internal:11434/api/embeddings
+      DATABASE_URL_DOCKER: ${DATABASE_URL_DOCKER:-}
+    depends_on:
+      mcp:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health', timeout=5)"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  mcp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nyaya-saathi:local
+    container_name: nyaya-saathi-mcp
+    env_file:
+      - .env
+    environment:
+      APP_MODULE: app.mcp.server:app
+      HOST: 0.0.0.0
+      PORT: 8001
+      OLLAMA_EMBED_URL: http://host.docker.internal:11434/api/embeddings
+      DATABASE_URL_DOCKER: ${DATABASE_URL_DOCKER:-}
+    ports:
+      - "8001:8001"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8001/health', timeout=5)"]
+      interval: 20s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nyaya-saathi:local
+    container_name: nyaya-saathi-frontend
+    env_file:
+      - .env
+    environment:
+      BACKEND_URL: http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+    command: ["python", "-m", "streamlit", "run", "frontend/app.py", "--server.port", "8501", "--server.address", "0.0.0.0"]
+    ports:
+      - "8501:8501"

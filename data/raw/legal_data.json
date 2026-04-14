@@ -1,0 +1,674 @@
+[
+  {
+    "section": "IPC Section 279",
+    "title": "Rash Driving",
+    "description": "Driving any vehicle in a manner that is dangerous or negligent, endangering human life.",
+    "category": "Traffic"
+  },
+  {
+    "section": "IPC Section 304A",
+    "title": "Causing Death by Negligence",
+    "description": "Causing death of a person through a negligent or rash act without intention to kill.",
+    "category": "Traffic"
+  },
+  {
+    "section": "IPC Section 337",
+    "title": "Causing Hurt by Act Endangering Life",
+    "description": "Causing injury to another person due to a reckless or negligent act.",
+    "category": "Traffic"
+  },
+  {
+    "section": "IPC Section 338",
+    "title": "Causing Grievous Hurt by Endangering Life",
+    "description": "Causing serious injury through a dangerous or negligent act.",
+    "category": "Traffic"
+  },
+  {
+    "section": "IPC 420",
+    "title": "Cheating and Dishonestly Inducing Delivery",
+    "description": "Deceiving someone to gain property, money, or advantage fraudulently.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 406",
+    "title": "Criminal Breach of Trust",
+    "description": "Misusing or dishonestly using property entrusted to someone.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 409",
+    "title": "Criminal Breach of Trust by Public Servant",
+    "description": "Public servant misusing entrusted property or funds.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 417",
+    "title": "Punishment for Cheating",
+    "description": "Punishment for deceiving a person and causing harm or loss.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 418",
+    "title": "Cheating with Knowledge of Loss",
+    "description": "Cheating someone knowing it will cause wrongful loss.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 354",
+    "title": "Outraging Modesty of Woman",
+    "description": "Assaulting or using criminal force against a woman with intent to outrage her modesty.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 509",
+    "title": "Insulting Modesty of Woman",
+    "description": "Using words, gestures, or acts intended to insult a woman's modesty.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 498A",
+    "title": "Cruelty by Husband or Relatives",
+    "description": "Harassment or cruelty by husband or his relatives towards a married woman.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 376",
+    "title": "Rape",
+    "description": "Sexual intercourse without consent under defined circumstances.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 354A",
+    "title": "Sexual Harassment",
+    "description": "Unwelcome physical contact, sexual advances, or inappropriate remarks.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 354B",
+    "title": "Assault to Disrobe Woman",
+    "description": "Use of force to disrobe or compel a woman to be naked.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 378",
+    "title": "Theft",
+    "description": "Dishonestly taking movable property without consent.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 379",
+    "title": "Punishment for Theft",
+    "description": "Punishment for committing theft.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 380",
+    "title": "Theft in Dwelling House",
+    "description": "Theft committed inside a house or building.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 381",
+    "title": "Theft by Clerk or Servant",
+    "description": "Theft committed by an employee or servant.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 403",
+    "title": "Dishonest Misappropriation",
+    "description": "Using someone else's property dishonestly for personal gain.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 441",
+    "title": "Criminal Trespass",
+    "description": "Entering property unlawfully with intent to commit an offense.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 447",
+    "title": "Punishment for Trespass",
+    "description": "Penalty for unlawful entry into property.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 448",
+    "title": "House Trespass",
+    "description": "Entering someone’s house unlawfully.",
+    "category": "Property"
+  },
+  {
+    "section": "IPC Section 351",
+    "title": "Assault",
+    "description": "Threatening or attempting to use force against another person.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 352",
+    "title": "Punishment for Assault",
+    "description": "Penalty for assault or use of criminal force.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 323",
+    "title": "Voluntarily Causing Hurt",
+    "description": "Intentionally causing bodily pain or injury.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 325",
+    "title": "Grievous Hurt",
+    "description": "Causing serious bodily injury intentionally.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 326",
+    "title": "Grievous Hurt with Dangerous Weapons",
+    "description": "Causing severe injury using weapons or dangerous means.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 506",
+    "title": "Criminal Intimidation",
+    "description": "Threatening someone with harm to cause fear.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 503",
+    "title": "Criminal Intimidation Definition",
+    "description": "Threatening injury to person, reputation, or property.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 268",
+    "title": "Public Nuisance",
+    "description": "Acts that cause harm or inconvenience to the public.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 290",
+    "title": "Punishment for Public Nuisance",
+    "description": "Penalty for committing public nuisance.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 294",
+    "title": "Obscene Acts",
+    "description": "Performing obscene acts in public places.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 188",
+    "title": "Disobedience to Public Order",
+    "description": "Disobeying orders issued by public authorities.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 166",
+    "title": "Public Servant Disobeying Law",
+    "description": "Public servant disobeying legal directions knowingly.",
+    "category": "Police Misuse"
+  },
+  {
+    "section": "IPC Section 167",
+    "title": "Public Servant Framing Incorrect Document",
+    "description": "Public servant creating false documents.",
+    "category": "Police Misuse"
+  },
+  {
+    "section": "IPC Section 219",
+    "title": "Corrupt Judicial Decision",
+    "description": "Judge making a decision knowing it is unjust.",
+    "category": "Police Misuse"
+  },
+  {
+    "section": "IPC Section 499",
+    "title": "Defamation",
+    "description": "Making or publishing false statements that harm a person's reputation.",
+    "category": "Defamation"
+  },
+  {
+    "section": "IPC Section 500",
+    "title": "Punishment for Defamation",
+    "description": "Penalty for harming someone's reputation through false statements.",
+    "category": "Defamation"
+  },
+  {
+    "section": "IPC Section 501",
+    "title": "Printing Defamatory Content",
+    "description": "Printing or engraving defamatory material knowingly.",
+    "category": "Defamation"
+  },
+  {
+    "section": "IPC Section 502",
+    "title": "Selling Defamatory Content",
+    "description": "Selling printed defamatory material knowingly.",
+    "category": "Defamation"
+  },
+  {
+    "section": "IPC Section 463",
+    "title": "Forgery",
+    "description": "Making false documents with intent to cause damage or fraud.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 465",
+    "title": "Punishment for Forgery",
+    "description": "Penalty for creating fake documents or records.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 468",
+    "title": "Forgery for Cheating",
+    "description": "Forgery committed specifically for cheating purposes.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 471",
+    "title": "Using Forged Document",
+    "description": "Using a fake document as if it were genuine.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 472",
+    "title": "Making Counterfeit Seal",
+    "description": "Creating fake seals or stamps for forgery.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 474",
+    "title": "Possession of Forged Document",
+    "description": "Having forged documents with intent to use them fraudulently.",
+    "category": "Forgery"
+  },
+  {
+    "section": "IPC Section 120A",
+    "title": "Criminal Conspiracy",
+    "description": "Agreement between two or more persons to commit an illegal act.",
+    "category": "Conspiracy"
+  },
+  {
+    "section": "IPC Section 120B",
+    "title": "Punishment for Conspiracy",
+    "description": "Penalty for involvement in criminal conspiracy.",
+    "category": "Conspiracy"
+  },
+  {
+    "section": "IPC Section 34",
+    "title": "Acts Done by Several Persons",
+    "description": "When a criminal act is done by several people with common intention.",
+    "category": "General"
+  },
+  {
+    "section": "IPC Section 149",
+    "title": "Unlawful Assembly",
+    "description": "Every member of unlawful assembly is responsible for offense committed.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 141",
+    "title": "Unlawful Assembly Definition",
+    "description": "Assembly of five or more persons with unlawful purpose.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 146",
+    "title": "Rioting",
+    "description": "Use of force or violence by unlawful assembly.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 147",
+    "title": "Punishment for Rioting",
+    "description": "Penalty for engaging in violent group activity.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 148",
+    "title": "Rioting with Deadly Weapon",
+    "description": "Rioting while armed with dangerous weapons.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 153A",
+    "title": "Promoting Enmity",
+    "description": "Promoting hatred between different groups on grounds of religion, race, etc.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 295A",
+    "title": "Outraging Religious Feelings",
+    "description": "Deliberate acts intended to insult religious beliefs.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 292",
+    "title": "Obscene Material",
+    "description": "Sale or distribution of obscene books or content.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 293",
+    "title": "Obscene Material to Minors",
+    "description": "Providing obscene material to young persons.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 294A",
+    "title": "Illegal Lottery",
+    "description": "Running or participating in unauthorized lotteries.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 201",
+    "title": "Causing Disappearance of Evidence",
+    "description": "Destroying evidence to hide a crime.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 202",
+    "title": "Intentional Omission to Inform",
+    "description": "Failing to report a crime knowingly.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 203",
+    "title": "Giving False Information",
+    "description": "Providing false information regarding an offense.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 211",
+    "title": "False Charge of Offense",
+    "description": "Falsely accusing someone of a crime.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 182",
+    "title": "False Information to Public Servant",
+    "description": "Providing false information to a government official.",
+    "category": "Police Misuse"
+  },
+  {
+    "section": "IPC Section 193",
+    "title": "False Evidence",
+    "description": "Giving false evidence in court.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 195",
+    "title": "Threatening Witness",
+    "description": "Threatening or influencing witnesses.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 204",
+    "title": "Destruction of Document",
+    "description": "Destroying documents required as evidence.",
+    "category": "Justice Obstruction"
+  },
+  {
+    "section": "IPC Section 353",
+    "title": "Assault on Public Servant",
+    "description": "Using force against a public servant during duty.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 186",
+    "title": "Obstructing Public Servant",
+    "description": "Obstructing a public servant from doing duty.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 189",
+    "title": "Threatening Public Servant",
+    "description": "Threatening a public servant to influence their actions.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 85",
+    "title": "Act of Person Incapable of Judgment",
+    "description": "Acts committed under intoxication without knowledge.",
+    "category": "General"
+  },
+  {
+    "section": "IPC Section 96",
+    "title": "Right of Private Defense",
+    "description": "Right to defend oneself against unlawful harm.",
+    "category": "Self Defense"
+  },
+  {
+    "section": "IPC Section 97",
+    "title": "Right of Private Defense of Body and Property",
+    "description": "Right to protect oneself and property from harm.",
+    "category": "Self Defense"
+  },
+  {
+    "section": "IPC Section 100",
+    "title": "Right of Private Defense Causing Death",
+    "description": "Right to cause death in self-defense under extreme threat.",
+    "category": "Self Defense"
+  },
+  {
+    "section": "IPC Section 383",
+    "title": "Extortion",
+    "description": "Intentionally putting a person in fear to dishonestly obtain property or money.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 384",
+    "title": "Punishment for Extortion",
+    "description": "Penalty for committing extortion.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 385",
+    "title": "Putting Person in Fear of Injury",
+    "description": "Threatening a person to commit extortion.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 387",
+    "title": "Extortion by Threat of Death",
+    "description": "Extortion involving threat of death or serious injury.",
+    "category": "Fraud"
+  },
+  {
+    "section": "IPC Section 503",
+    "title": "Criminal Intimidation",
+    "description": "Threatening someone to cause fear of injury or harm.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 507",
+    "title": "Anonymous Threat",
+    "description": "Criminal intimidation through anonymous communication.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 292A",
+    "title": "Electronic Obscene Content",
+    "description": "Publishing or transmitting obscene material electronically.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 354D",
+    "title": "Stalking",
+    "description": "Repeatedly following or contacting a person against their will.",
+    "category": "Women Safety"
+  },
+  {
+    "section": "IPC Section 507",
+    "title": "Criminal Intimidation by Anonymous Communication",
+    "description": "Threatening someone while hiding identity.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 499A",
+    "title": "Online Defamation",
+    "description": "Defamation committed through online or digital platforms.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 463A",
+    "title": "Digital Forgery",
+    "description": "Creating fake digital documents or records.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 471A",
+    "title": "Using Fake Digital Documents",
+    "description": "Using forged digital records as genuine.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 66C",
+    "title": "Identity Theft",
+    "description": "Using someone else's identity or credentials fraudulently.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 66D",
+    "title": "Cheating by Personation Online",
+    "description": "Online fraud through impersonation.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 66E",
+    "title": "Violation of Privacy",
+    "description": "Capturing or sharing private images without consent.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 67",
+    "title": "Publishing Obscene Content Online",
+    "description": "Publishing or transmitting obscene content in electronic form.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 67A",
+    "title": "Sexually Explicit Content",
+    "description": "Publishing sexually explicit content online.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 67B",
+    "title": "Child Sexual Content",
+    "description": "Publishing or browsing child sexual content online.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 72",
+    "title": "Breach of Confidentiality",
+    "description": "Unauthorized disclosure of information.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 72A",
+    "title": "Disclosure of Personal Information",
+    "description": "Misusing personal data without consent.",
+    "category": "Cybercrime"
+  },
+  {
+    "section": "IPC Section 359",
+    "title": "Kidnapping",
+    "description": "Taking a person away unlawfully.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 361",
+    "title": "Kidnapping from Guardianship",
+    "description": "Taking a minor away from lawful guardian.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 362",
+    "title": "Abduction",
+    "description": "Forcibly taking someone away using deceit or force.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 364",
+    "title": "Kidnapping for Murder",
+    "description": "Kidnapping with intent to kill.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 365",
+    "title": "Kidnapping with Wrongful Confinement",
+    "description": "Kidnapping with intent to secretly confine a person.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 342",
+    "title": "Wrongful Confinement",
+    "description": "Restricting a person unlawfully in a space.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 340",
+    "title": "Wrongful Restraint",
+    "description": "Preventing a person from moving freely.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 339",
+    "title": "Wrongful Restraint Definition",
+    "description": "Obstructing a person from proceeding in a direction.",
+    "category": "Violence"
+  },
+  {
+    "section": "IPC Section 107",
+    "title": "Abetment",
+    "description": "Encouraging or aiding someone to commit a crime.",
+    "category": "General"
+  },
+  {
+    "section": "IPC Section 109",
+    "title": "Punishment for Abetment",
+    "description": "Penalty for helping or encouraging a crime.",
+    "category": "General"
+  },
+  {
+    "section": "IPC Section 306",
+    "title": "Abetment of Suicide",
+    "description": "Encouraging or assisting someone to commit suicide.",
+    "category": "Serious Offense"
+  },
+  {
+    "section": "IPC Section 174",
+    "title": "Non-attendance in Obedience",
+    "description": "Failure to attend when required by law.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 175",
+    "title": "Omission to Produce Document",
+    "description": "Failing to produce documents required by law.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 176",
+    "title": "Failure to Inform Public Authority",
+    "description": "Failing to inform authorities when legally required.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 177",
+    "title": "Furnishing False Information",
+    "description": "Providing false information to authorities.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 179",
+    "title": "Refusing to Answer Public Servant",
+    "description": "Refusing to answer questions from authorized officials.",
+    "category": "Public Order"
+  },
+  {
+    "section": "IPC Section 180",
+    "title": "Refusing to Sign Statement",
+    "description": "Refusing to sign statements when required.",
+    "category": "Public Order"
+  } 
+]
