@@ -81,7 +81,7 @@ The platform is built using a modular, production-ready architecture:
 
 ## Live Demo
 
-- App URL: `http://15.206.119.175:8501/`
+- App URL: [Click Here](http://15.206.119.175:8501/)
 
 ## Product Preview
 
@@ -104,83 +104,82 @@ The platform is built using a modular, production-ready architecture:
 
 ## Repository Structure
 
-Files/directories currently present in this repository are listed below.
-
 ```text
-README.md
-Dockerfile
-docker-compose.yml
-requirements.txt
-.dockerignore
-.gitignore
-.github/
-  workflows/
-    ci-cd.yml
-app/
-  main.py
-  api/
-    routes/
-      query.py
-  core/
-    graph/
-      builder.py
-      state.py
-      nodes/
-        planner.py
-        retriever.py
-        retrieval_grader.py
-        query_rewriter.py
-        case_node.py
-        lawyer_node.py
-        emergency_node.py
-        draft_gen_node.py
-        reasoning.py
-        suggestion.py
-        safety.py
-    rag/
-      embedding.py
-    llm/
-      openai_client.py
-    observability/
-      langsmith_config.py
-  db/
-    chroma/
-      client.py
-    postgres/
-      connection.py
-      init_db.py
-      models.py
-      queries.py
-  mcp/
-    client.py
-    server.py
-    tools/
-      case_search.py
-      lawyer_lookup.py
-      draft_generator.py
-      emergency_services.py
-  models/
-    request.py
-    response.py
-  services/
-    legal_service.py
-    case_service.py
-    lawyer_service.py
-    draft_service.py
-  utils/
-    prompts.py
-config/
-  settings.py
-frontend/
-  app.py
-scripts/
-  ingest_data.py
-  ingest_dummy_data.py
-  check_chroma.py
-  seed_lawyers.py
-data/
-  raw/
-    legal_data.json
+NyayaSaathi/
+├── README.md
+├── Dockerfile
+├── docker-compose.yml
+├── requirements.txt
+├── .dockerignore
+├── .gitignore
+├── .github/
+│   └── workflows/
+│       └── ci-cd.yml
+├── app/
+│   ├── main.py
+│   ├── api/
+│   │   └── routes/
+│   │       └── query.py
+│   ├── core/
+│   │   ├── graph/
+│   │   │   ├── builder.py
+│   │   │   ├── state.py
+│   │   │   └── nodes/
+│   │   │       ├── planner.py
+│   │   │       ├── retriever.py
+│   │   │       ├── retrieval_grader.py
+│   │   │       ├── query_rewriter.py
+│   │   │       ├── case_node.py
+│   │   │       ├── lawyer_node.py
+│   │   │       ├── emergency_node.py
+│   │   │       ├── draft_gen_node.py
+│   │   │       ├── reasoning.py
+│   │   │       ├── suggestion.py
+│   │   │       └── safety.py
+│   │   ├── rag/
+│   │   │   └── embedding.py
+│   │   ├── llm/
+│   │   │   └── openai_client.py
+│   │   └── observability/
+│   │       └── langsmith_config.py
+│   ├── db/
+│   │   ├── chroma/
+│   │   │   └── client.py
+│   │   └── postgres/
+│   │       ├── connection.py
+│   │       ├── init_db.py
+│   │       ├── models.py
+│   │       └── queries.py
+│   ├── mcp/
+│   │   ├── client.py
+│   │   ├── server.py
+│   │   └── tools/
+│   │       ├── case_search.py
+│   │       ├── lawyer_lookup.py
+│   │       ├── draft_generator.py
+│   │       └── emergency_services.py
+│   ├── models/
+│   │   ├── request.py
+│   │   └── response.py
+│   ├── services/
+│   │   ├── legal_service.py
+│   │   ├── case_service.py
+│   │   ├── lawyer_service.py
+│   │   └── draft_service.py
+│   └── utils/
+│       └── prompts.py
+├── config/
+│   └── settings.py
+├── frontend/
+│   └── app.py
+├── scripts/
+│   ├── ingest_data.py
+│   ├── ingest_dummy_data.py
+│   ├── check_chroma.py
+│   └── seed_lawyers.py
+└── data/
+    └── raw/
+        └── legal_data.json
 ```
 
 ---
