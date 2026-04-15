@@ -73,7 +73,7 @@ The platform is built using a modular, production-ready architecture:
 - Advanced RAG pipeline with grading and query rewriting  
 - MCP-based tool execution layer  
 - Chroma vector database for retrieval  
-- Supabase PostgreSQL for persistent session memory  
+- Supabase PostgreSQL as a production-oriented memory database for persistent session and conversation context  
 - LangSmith for observability and debugging  
 - Dockerized deployment with CI/CD via GitHub Actions  
 
@@ -91,10 +91,20 @@ The platform is built using a modular, production-ready architecture:
 
 <img width="1409" height="829" alt="Image" src="https://github.com/user-attachments/assets/29dccb32-492c-41b4-b2a9-db6d3f600fab" />
 
+### Description
+
+| Color | Meaning |
+|---|---|
+| <span style="display:inline-block;width:14px;height:14px;background:##7ed957;border:1px solid #999;vertical-align:middle;"></span> `##7ed957` | Entry Point |
+| <span style="display:inline-block;width:14px;height:14px;background:#ff9999;border:1px solid #999;vertical-align:middle;"></span> `#ff9999` | End Point |
+| <span style="display:inline-block;width:14px;height:14px;background:#a1f7da;border:1px solid #999;vertical-align:middle;"></span> `#a1f7da` | Tools |
+| <span style="display:inline-block;width:14px;height:14px;background:#99acff;border:1px solid #999;vertical-align:middle;"></span> `#99acff` | Main Nodes |
+
 ## Key Features
 
 - Multi-agent legal routing by intent
 - Advanced RAG loop with retrieval quality control
+- Human-in-the-Loop (HITL) checkpoints are currently implemented in case search and query rewriting, with additional HITL pathways under active design for other high-impact nodes/tools.
 - Legal retrieval + case search + lawyer lookup + emergency guidance + draft generation
 - Persistent chat sessions and history
 - LangSmith-based LLMOps and traceability
