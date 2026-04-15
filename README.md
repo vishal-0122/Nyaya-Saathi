@@ -1,6 +1,6 @@
 # Nyaya Saathi: Your Legal AI Consultant
 
-[![CI/CD Pipeline](https://github.com/vishal-0122/Nyaya-Saathi/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/vishal-0122/Nyaya-Saathi/actions/workflows/ci-cd.yml)
+[![CI/CD Pipeline](https://github.com/vishal-0122/Nyaya-Saathi/actions/workflows/ci-cd.yml/badge.svg?branch=main&v=2)](https://github.com/vishal-0122/Nyaya-Saathi/actions/workflows/ci-cd.yml)
 [![Docker Image](https://img.shields.io/docker/pulls/vishal0122/nyaya-saathi-app?label=Docker%20Image&logo=docker)](https://hub.docker.com/r/vishal0122/nyaya-saathi-app)
 
 ## Overview
