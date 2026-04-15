@@ -89,16 +89,7 @@ The platform is built using a modular, production-ready architecture:
 
 ## Graph Architecture
 
-<img width="1409" height="829" alt="Image" src="https://github.com/user-attachments/assets/29dccb32-492c-41b4-b2a9-db6d3f600fab" />
-
-### Description
-
-| Color | Meaning |
-|---|---|
-| <span style="display:inline-block;width:14px;height:14px;background:##7ed957;border:1px solid #999;vertical-align:middle;"></span> `##7ed957` | Entry Point |
-| <span style="display:inline-block;width:14px;height:14px;background:#ff9999;border:1px solid #999;vertical-align:middle;"></span> `#ff9999` | End Point |
-| <span style="display:inline-block;width:14px;height:14px;background:#a1f7da;border:1px solid #999;vertical-align:middle;"></span> `#a1f7da` | Tools |
-| <span style="display:inline-block;width:14px;height:14px;background:#99acff;border:1px solid #999;vertical-align:middle;"></span> `#99acff` | Main Nodes |
+<img width="1286" height="762" alt="Image" src="https://github.com/user-attachments/assets/b9567300-dc03-4ca3-80e5-c8549562c910" />
 
 ## Key Features
 
